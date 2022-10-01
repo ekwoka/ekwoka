@@ -1,6 +1,6 @@
 # Hi, I'm Eric Kwoka
 
-![<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=deno">](https://thekwoka.net)
+[<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=deno">](https://thekwoka.net)
 
 I'm a United States Marine turned Full Stack Engineer!
 
