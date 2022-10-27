@@ -36,5 +36,5 @@ Includes lots of smart behind-the-scenes action to improve performance and reduc
 ## Obligatory Stats
 
 ![Eric's Streak Stats](https://streak-stats.demolab.com/?user=ekwoka&theme=onedark)
-![E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekwoka&show_icons=true&theme=onedark)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekwoka&show_icons=true&theme=onedark)
 ![Eric's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ekwoka&show_icons=true&theme=onedark&langs_count=4&layout=compact)
