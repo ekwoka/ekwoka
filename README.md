@@ -8,7 +8,7 @@ I'm passionate about solving big problems with little pieces, and contibuting to
 
 ## Some of my packages
 
-### [Preact Herocions](https://github.com/ekwoka/preact-heroicons)
+### [Preact Heroicons](https://github.com/ekwoka/preact-heroicons)
 
 [<img src="https://img.shields.io/npm/v/preact-heroicons?style=for-the-badge">](https://www.npmjs.com/package/preact-heroicons)
 <img src="https://img.shields.io/npm/types/preact-heroicons?label=%20&amp;logo=typescript&amp;logoColor=white&amp;style=for-the-badge">
